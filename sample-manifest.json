@@ -1,0 +1,12 @@
+{
+  "export_job_id": "04588fd8-9a77-4056-b707-421a5ea8c80f",
+  "id_short": 643594,
+  "published_at": "2026-04-13T07:24:41Z",
+  "repo_name": "all-restaurants-in-maine-us-sample-643594",
+  "sample_asset_name": "beamstation_643594_restaurants-us-me_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/643594/beamstation_643594_restaurants-us-me_SAMPLE_DIST.csv",
+  "sample_records": 50,
+  "sample_sha256": "e819736d7a3c54b1fe5947b4f9ab39665573a9d576cdcf368073f399f78850ab",
+  "sample_size_bytes": 212589,
+  "total_records": 2855
+}
