@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All restaurant listings across the state of Maine. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
+  "config_name": "All Restaurants in Maine, US",
+  "export_job_id": "04588fd8-9a77-4056-b707-421a5ea8c80f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 643594,
+  "location_name": "Maine",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-maine-us-sample-643594",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/643594/beamstation_643594_restaurants-us-me_SAMPLE_DIST.csv",
+  "sample_pct": 1.75,
+  "sample_records": 50,
+  "sample_sha256": "e819736d7a3c54b1fe5947b4f9ab39665573a9d576cdcf368073f399f78850ab",
+  "sample_size_bytes": 212589,
+  "total_records": 2855,
+  "updated_at": "2026-03-31T17:42:17.909488+00:00"
+}
