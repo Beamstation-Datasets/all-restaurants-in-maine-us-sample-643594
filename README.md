@@ -1,6 +1,6 @@
 # All Restaurants in Maine, US
 
-> Free BeamStation sample export with 343 rows and masked direct-contact fields.
+> Free BeamStation sample export with 271 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `643594` |
 | Location | Maine |
 | Category | Restaurants |
-| Full dataset size | 3,438 records |
-| Free sample size | 343 records (9.98%) |
-| Last export | 2026-04-14T18:57:49.226457+00:00 |
+| Full dataset size | 2,711 records |
+| Free sample size | 271 records (10.0%) |
+| Last export | 2026-04-21T20:54:08.782105+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-maine-us-sample-643594/releases/download/sample-latest/beamstation_643594_restaurants-us-me_SAMPLE_DIST.csv) |
 
 ## What is in this sample
